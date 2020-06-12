@@ -1,0 +1,232 @@
+body{
+	font-family: 'playfair Display', serif;
+	color: #626262;
+	margin: 0;
+	padding: 0;
+}
+
+/*header start*/
+header{
+	padding: 20px 0;
+}
+.container{
+	width: 90%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.logo{
+	width: 13%;
+	float: left;
+	margin-top: 7px; 
+	cursor: pointer;
+}
+.logo img{
+	width: 100%;
+
+}
+.menu{
+	width: 70%;
+	float: right;
+}
+.menu ul{
+	float: right;
+}
+.menu ul li{
+	list-style-type: none;
+	float: left;
+}
+.menu ul li a{
+	font-weight: 400;
+	font-size: 16px;
+	color: #626262;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: inline-block;
+	margin: 0 50px;
+	border-bottom: 1px solid transparent;
+	transition: .5s;
+}
+.menu ul li:last-child a{
+	padding-right: 0;
+}
+.menu ul li a:hover{
+	color: #000000;
+	border-bottom: 1px solid #000000;
+}
+/*header end*/
+/*banner start*/
+.banner{
+	padding: 20pxm 0;
+}
+.banner img{
+	width: 100%;
+}
+
+/*banner end*/
+/*container2 start*/
+.container2{
+	width: 75%;
+	margin: 35px auto;
+	overflow: hidden;
+}
+.pdh3{
+	color: #b4ad9e;
+	font-size: 14px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.pdh1{
+	color: #626262;
+	font-size: 30PX;
+	font-weight: 400;
+}
+.pdp{
+	font-size: 14px;
+}
+.cmnt{
+	padding: 50px 0;
+}
+.cmnt a{
+	color: #b4ad9e;
+	font-size: 14px;
+	font-family: 'Ubuntu', sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+/*container2 end*/
+/*container3 start*/
+.container3{
+	width: 75%;
+	margin: 35px auto;
+	overflow: hidden;
+}
+.one{
+	width: 47%;
+	float: left;
+	padding: 60px 0;
+}
+.one img{
+	width: 100%;
+}
+.two{
+	width: 47%;
+	float: right;
+	padding: 60px 0;
+}
+.two img{
+	width: 100%;
+}
+.three{
+	width: 47%;
+	float: left;
+	padding: 60px 0;
+}
+.three img{
+	width: 100%;
+}
+.four{
+	width: 47%;
+	float: right;
+	padding: 60px 0;
+}
+.four img{
+	width: 100%;
+}
+.title3{
+	color: #b4ad9e;
+	font-size: 14px;
+	font-family: 'Ubuntu', sans-serif;
+	text-transform: uppercase;
+	padding: 15px 0;
+	cursor: pointer;
+}
+.head3{
+	color: #626262;
+	font-size: 30PX;
+	font-weight: 400;
+}
+.para3{
+	font-size: 15px;
+}
+/*container3 end*/
+/*signup start*/
+.signup{
+	background: #F0F0F0;
+}
+.su{
+	text-align: center; 
+}
+.head4{
+	color: #333333;
+	font-size: 30px;
+	padding: 60px 0;
+}
+.mail{
+	cursor: pointer;
+	padding-bottom: 60px; 
+}
+/*signup end*/
+
+.five{
+	width: 47%;
+	float: left;
+	padding: 60px 0;
+}
+.five img{
+	width: 100%;
+}
+.six{
+	width: 47%;
+	float: right;
+	padding: 60px 0;
+}
+.six img{
+	width: 100%;
+}
+
+/*button start*/
+.button{
+	margin: 100px 0;
+	text-align: center; 
+}
+.btn{
+	color: #626262;
+	font-size: 20px;
+	font-weight: 400;
+	padding: 16px 40px;
+	border: 1px solid#626262;
+	text-decoration: none;
+}
+.btn:hover{
+	color: #000000;
+	background-color: #F0F0F0;
+	transition: .6s;
+}
+/*button end*/
+/*footer start*/
+.footer{
+	background: #F0F0F0;
+	margin-top:175px; 
+}
+.container4{
+	width: 88%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 50px 0;
+}
+.txt{
+	float: left;
+	padding: 0 20px;
+}
+.icons{
+	float: right;
+	padding: 0 20px;
+}
+.ft{
+	color: #000000;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 0 8px;
+}
+/*footer end*/
+
