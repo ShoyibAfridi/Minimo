@@ -150,20 +150,54 @@ header{
 }
 /*container3 end*/
 /*signup start*/
+.news{
+	background-color: #f0f0f0;
+	padding: 80px 0;
+}
 .signup{
-	background: #F0F0F0;
+	text-align: center;
+
 }
-.su{
-	text-align: center; 
-}
-.head4{
-	color: #333333;
+.s_h1{
+	font-weight: 400;
 	font-size: 30px;
-	padding: 60px 0;
+	color: #333333;
+	margin-top:0;
+	margin-bottom: 70px; 
 }
-.mail{
+.s_form{
+	width: 400px;
+	position: relative;
+	margin: 0 auto;
+}
+.s_form input{
+	font-family: 'playfair Display', serif;
+	font-size: 14px;
+	color: #626262;
+	width: 345px;
+	height: 45px;
+	border: none;
+	border-bottom: 1px solid #000000;
+	background-color: transparent;
+	padding-left: 5px;
+	padding-right: 45px;
+}
+.s_form input:focus{
+	outline: 0;
+}
+.s_form button{
+	position: absolute;
+	background-color: transparent;
+	border: none;
 	cursor: pointer;
-	padding-bottom: 60px; 
+	top: 15px;
+	right: 0; 
+}
+.s_form button:focus{
+	outline: 0;
+}
+.s_form button img{
+	
 }
 /*signup end*/
 
